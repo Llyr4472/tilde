@@ -31,9 +31,6 @@ e.g. `g/llyr4472/tilde` <kbd>Enter</kbd> will redirect you to
 e.g. `example.com` <kbd>Enter</kbd> will redirect you to
 [example.com](https://example.com)
 
-## Fork
-This repo is a fork of [Original Tilde](https://github.com/xvvvyz/tilde).
-
 ## License
 
 Use and modify Tilde [as you see fit](UNLICENSE).
