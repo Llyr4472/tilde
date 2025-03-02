@@ -23,20 +23,17 @@ e.g. `tilde` <kbd>Enter</kbd> will
 **To go to a specific path on a site**, type the path after the site&rsquo;s
 key.
 
-e.g. `g/xvvvyz/tilde` <kbd>Enter</kbd> will redirect you to
-[github.com/xvvvyz/tilde](https://github.com/xvvvyz/tilde)
+e.g. `g/llyr4472/tilde` <kbd>Enter</kbd> will redirect you to
+[github.com/llyr4472/tilde](https://github.com/llyr4472/tilde)
 
 **To access any other site**, enter the URL directly.
 
 e.g. `example.com` <kbd>Enter</kbd> will redirect you to
 [example.com](https://example.com)
 
-## Beyond
-
-Tilde is meant to be customized&mdash;[make it yours!](index.html)
+## Fork
+This repo is a fork of [Original Tilde](https://github.com/xvvvyz/tilde).
 
 ## License
-
-Space Grotesk is licensed under the [SIL Open Font License](fonts/OFL).
 
 Use and modify Tilde [as you see fit](UNLICENSE).
